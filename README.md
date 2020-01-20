@@ -4,7 +4,7 @@ Xubuntu 19.10 was installed after assembling the components.
 
 # Components
 
-| component | model name | count |
+| Component | Model name | Count |
 | -------- | ------------- | --- |
 |	motherboard | [ASUS TUF GAMING X570-PLUS](https://www.asus.com/Motherboards/TUF-GAMING-X570-PLUS/) | 1 |
 | CPU | [AMD Ryzen 9 3900X](https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+9+3900X&id=3493) | 1 | 
