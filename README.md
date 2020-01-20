@@ -16,6 +16,10 @@ Xubuntu 19.10 was installed after assembling the components.
 | extra cooler fan (optional) | [Noctua NF-A15 PWM](https://noctua.at/en/nf-a15-pwm) | 1 |
 | SSD | [CORSAIR Force Series MP600 1 Tb](https://www.corsair.com/us/en/Categories/Products/Storage/M-2-SSDs/Force-Series%E2%84%A2-Gen-4-PCIe-NVMe-M-2-SSD/p/CSSD-F1000GBMP600) | 1 |
 
+# Photos
+
+![](images/computer-1.jpg)
+![](images/computer-2.jpg)
 
 
 
