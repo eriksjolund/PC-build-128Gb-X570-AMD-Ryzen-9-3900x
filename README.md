@@ -13,7 +13,7 @@ Xubuntu 19.10 was installed after assembling the components.
 | case | [Fractal Design Define Series R6](https://www.fractal-design.com/products/cases/define/define-r6/blackout/) | 1 |
 | graphics card | [MSI GeForce GT 1030 2GH LP OC](https://www.msi.com/Graphics-card/GeForce-GT-1030-2GH-LP-OC.html) | 1 |
 | cooler | [Noctua NH-D15S](https://noctua.at/en/nh-d15s) | 1 | 
-| extra cooler fan | [Noctua NF-A15 PWM](https://noctua.at/en/nf-a15-pwm) | 1 |
+| extra cooler fan (optional) | [Noctua NF-A15 PWM](https://noctua.at/en/nf-a15-pwm) | 1 |
 | SSD | [CORSAIR Force Series MP600 1 Tb](https://www.corsair.com/us/en/Categories/Products/Storage/M-2-SSDs/Force-Series%E2%84%A2-Gen-4-PCIe-NVMe-M-2-SSD/p/CSSD-F1000GBMP600) | 1 |
 
 
